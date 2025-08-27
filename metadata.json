@@ -1,0 +1,5 @@
+{
+  "name": "RailConnect AI",
+  "description": "An AI-powered Indian Railways booking application designed to simulate train search, booking, and user management with a smart chatbot assistant.",
+  "requestFramePermissions": []
+}
